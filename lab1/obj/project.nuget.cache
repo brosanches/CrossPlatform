@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ekh6vix5iz12apIboFbEaea39rUnrOzGZYCV69df8/klqKxwTVi+INMt2yzDDPGc32UfVIU+BHYJWM2IBPG+sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\super\\Desktop\\С# projects\\CrossPlatform\\lab1\\lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\super\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\4.0.0\\mcmaster.extensions.commandlineutils.4.0.0.nupkg.sha512",
+    "C:\\Users\\super\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

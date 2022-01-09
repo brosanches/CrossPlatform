@@ -1,0 +1,17 @@
+C:\Users\super\Desktop\С# projects\CrossPlatform\lab2\bin\Debug\net6.0\lab2.exe
+C:\Users\super\Desktop\С# projects\CrossPlatform\lab2\bin\Debug\net6.0\lab2.deps.json
+C:\Users\super\Desktop\С# projects\CrossPlatform\lab2\bin\Debug\net6.0\lab2.runtimeconfig.json
+C:\Users\super\Desktop\С# projects\CrossPlatform\lab2\bin\Debug\net6.0\lab2.dll
+C:\Users\super\Desktop\С# projects\CrossPlatform\lab2\bin\Debug\net6.0\ref\lab2.dll
+C:\Users\super\Desktop\С# projects\CrossPlatform\lab2\bin\Debug\net6.0\lab2.pdb
+C:\Users\super\Desktop\С# projects\CrossPlatform\lab2\bin\Debug\net6.0\McMaster.Extensions.CommandLineUtils.dll
+C:\Users\super\Desktop\С# projects\CrossPlatform\lab2\obj\Debug\net6.0\lab2.csproj.AssemblyReference.cache
+C:\Users\super\Desktop\С# projects\CrossPlatform\lab2\obj\Debug\net6.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\Desktop\С# projects\CrossPlatform\lab2\obj\Debug\net6.0\lab2.AssemblyInfoInputs.cache
+C:\Users\super\Desktop\С# projects\CrossPlatform\lab2\obj\Debug\net6.0\lab2.AssemblyInfo.cs
+C:\Users\super\Desktop\С# projects\CrossPlatform\lab2\obj\Debug\net6.0\lab2.csproj.CoreCompileInputs.cache
+C:\Users\super\Desktop\С# projects\CrossPlatform\lab2\obj\Debug\net6.0\lab2.csproj.CopyComplete
+C:\Users\super\Desktop\С# projects\CrossPlatform\lab2\obj\Debug\net6.0\lab2.dll
+C:\Users\super\Desktop\С# projects\CrossPlatform\lab2\obj\Debug\net6.0\ref\lab2.dll
+C:\Users\super\Desktop\С# projects\CrossPlatform\lab2\obj\Debug\net6.0\lab2.pdb
+C:\Users\super\Desktop\С# projects\CrossPlatform\lab2\obj\Debug\net6.0\lab2.genruntimeconfig.cache
